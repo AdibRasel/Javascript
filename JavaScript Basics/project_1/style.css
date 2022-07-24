@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(104, 106, 112);
+    color:white;
+    font-size: 20px;
+
+}
+.header{
+    height: 50px;
+    width: auto;
+    background-color: rgba(60, 92, 199, 0.836);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    padding-top: 25px;
+}
+.main_box{
+    margin-top: 50px;
+    font-size: 20px;
+    border: 2px solid #111;
+    margin-left: 50px;
+    padding: 10px;
+    padding-bottom: 500px;
+    background-color: rgba(148, 148, 148, 0.514) ;
+}
+
+
+
+
+#myDIV {
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+    background-color: lightblue;
+    margin-top: 20px;
+  }
+input{
+    height: 20px;
+    width: 250px;
+}
+
+  button{
+      height: 30px;
+      width: 250px;
+  }
+  button:hover{
+    background-color: rgba(60, 92, 199, 0.836);
+    color: white;
+
+  }
