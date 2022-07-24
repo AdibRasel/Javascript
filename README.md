@@ -1,2 +1,2 @@
 # javascript
-https://adibrasel.github.io/javascript/
+https://adibrasel.github.io/Javascript/
